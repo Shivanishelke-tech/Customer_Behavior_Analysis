@@ -5,6 +5,11 @@ This project focuses on analyzing customer shopping behavior using Python, SQL S
 
 The project follows a complete data analytics workflow starting from data exploration in Google Colab, SQL-based data analysis in SQL Server, and dashboard creation in Power BI.
 
+
+Problem Statement
+
+Businesses struggle to understand **who their customers are, what they buy, and why they leave.** Without clear visibility into customer behavior, revenue patterns, and product performance — companies make decisions based on gut feeling rather than data.This project solves that by building an end-to-end analytics platform that transforms raw customer shopping data into actionable business insights using Python, SQL Server, and Power BI.
+
 ## Project Workflow
 
 Customer_Shopping_Behavior_Analysis.ipynb notebook
