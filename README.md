@@ -12,6 +12,9 @@ Businesses struggle to understand **who their customers are, what they buy, and 
 
 ## Project Workflow
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b0c55232-77f6-4890-b6a1-3bcf006c67fe" />
+
+
 Customer_Shopping_Behavior_Analysis.ipynb notebook
 
 This notebook contains:
